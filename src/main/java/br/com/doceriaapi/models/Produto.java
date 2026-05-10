@@ -27,7 +27,5 @@ public class Produto {
     private Tipo tipo;
     private int quantidade;
 
-    private String imgUrl;
-
     private LocalDateTime deletedAt = null;
 }
